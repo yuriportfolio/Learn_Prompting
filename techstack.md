@@ -6,8 +6,10 @@ yuriportfolio/Learn_Prompting is built on the following main stack:
 - [Python](https://www.python.org) – Languages
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -21,8 +23,10 @@ yuriportfolio/Learn_Prompting is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -34,11 +38,11 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/Learn_Prompting](https://github.com/yuriportfolio/Learn_Prompting)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/05/24 <br/>Report generated|
+|27<br/>Tools used|01/11/24 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6727/css.png' alt='CSS 3'>
@@ -64,10 +68,18 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'>
+  <br>
+  <sub><a href="http://www.typescriptlang.org">TypeScript</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'>
@@ -75,6 +87,14 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://reactjs.org/">React</a></sub>
   <br>
   <sub>v17.0.2</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'>
+  <br>
+  <sub><a href="https://tailwindcss.com">Tailwind CSS</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 </tr>
@@ -117,7 +137,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'>
@@ -127,19 +147,39 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10756/339286.png' alt='yup'>
+  <br>
+  <sub><a href="https://github.com/jquense/yup">yup</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@mdx-js/react](https://www.npmjs.com/@mdx-js/react)|v1.6.22|02/22/23|Eddie Vlagea |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|02/22/23|Eddie Vlagea |MIT|N/A|
-|[react-tooltip](https://www.npmjs.com/react-tooltip)|v5.8.3|02/22/23|Eddie Vlagea |MIT|N/A|
+|[@fortawesome/fontawesome-svg-core](https://www.npmjs.com/@fortawesome/fontawesome-svg-core)|v6.4.2|08/05/23|trigaten |MIT|N/A|
+|[@fortawesome/free-brands-svg-icons](https://www.npmjs.com/@fortawesome/free-brands-svg-icons)|v6.4.2|08/05/23|trigaten |CC-BY-4.0,MIT|N/A|
+|[@fortawesome/free-regular-svg-icons](https://www.npmjs.com/@fortawesome/free-regular-svg-icons)|v6.4.2|08/05/23|trigaten |CC-BY-4.0,MIT|N/A|
+|[@fortawesome/free-solid-svg-icons](https://www.npmjs.com/@fortawesome/free-solid-svg-icons)|v6.4.2|08/05/23|trigaten |CC-BY-4.0,MIT|N/A|
+|[@fortawesome/react-fontawesome](https://www.npmjs.com/@fortawesome/react-fontawesome)|v0.2.0|08/15/23|trigaten |MIT|N/A|
+|[@mdx-js/react](https://www.npmjs.com/@mdx-js/react)|v1.6.22|08/15/23|trigaten |MIT|N/A|
+|[fs](https://www.npmjs.com/fs)|v0.0.1|10/27/22|trigaten |MIT|N/A|
+|[js-base64](https://www.npmjs.com/js-base64)|v3.7.5|07/22/23|trigaten |BSD-3-Clause|N/A|
+|[react-copy-to-clipboard](https://www.npmjs.com/react-copy-to-clipboard)|v5.1.0|08/15/23|trigaten |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|08/15/23|trigaten |MIT|N/A|
+|[react-icons](https://www.npmjs.com/react-icons)|v4.8.0|08/15/23|trigaten |MIT|N/A|
+|[react-tooltip](https://www.npmjs.com/react-tooltip)|v5.8.3|08/15/23|trigaten |MIT|N/A|
+|[remark-gfm](https://www.npmjs.com/remark-gfm)|v3.0.1|07/22/23|trigaten |N/A|N/A|
+|[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.2|04/30/23|trigaten |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v1.2.0|10/27/22|trigaten |MIT|N/A|
 
 <br/>
 <div align='center'>
