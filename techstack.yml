@@ -2,11 +2,11 @@ repo_name: yuriportfolio/Learn_Prompting
 report_id: 1975dec8600f1a7ed781bdfbe0f92c87
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:07:45+00:00'
-requested_by: hchiam
+timestamp: '2024-01-11T12:41:30+00:00'
+requested_by: evintunador
 provider: github
 branch: main
-detected_tools_count: 12
+detected_tools_count: 27
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -40,6 +40,17 @@ tools:
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
   detection_source_url: https://github.com/yuriportfolio/Learn_Prompting
   detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting
+  detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
   website_url: https://reactjs.org/
@@ -52,8 +63,21 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
   detection_source: package.json
-  last_updated_by: Eddie Vlagea
-  last_updated_on: 2023-02-22 18:22:56.000000000 Z
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-04-30 23:54:29.000000000 Z
 - name: Babel
   description: Use next generation JavaScript, today.
   website_url: http://babeljs.io/
@@ -113,6 +137,85 @@ tools:
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
   detection_source_url: https://github.com/yuriportfolio/Learn_Prompting
   detection_source: Repo Metadata
+- name: yup
+  website_url: https://github.com/jquense/yup
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2022-10-27 19:39:20.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-05 20:44:16.000000000 Z
+- name: "@fortawesome/free-brands-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-brands-svg-icons
+  version: 6.4.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18314/default_8c7316b1ad57adb78204233fc4608152c3b49ac6.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-05 20:44:16.000000000 Z
+- name: "@fortawesome/free-regular-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-regular-svg-icons
+  version: 6.4.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18157/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-05 20:44:16.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  version: 6.4.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-05 20:44:16.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
 - name: "@mdx-js/react"
   description: React implementation for MDX
   package_url: https://www.npmjs.com/@mdx-js/react
@@ -125,8 +228,51 @@ tools:
   image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
   detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
   detection_source: package.json
-  last_updated_by: Eddie Vlagea
-  last_updated_on: 2023-02-22 18:22:56.000000000 Z
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2022-10-27 19:39:20.000000000 Z
+- name: js-base64
+  description: Yet another Base64 transcoder in pure-JS
+  package_url: https://www.npmjs.com/js-base64
+  version: 3.7.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16984/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-07-22 22:05:39.000000000 Z
+- name: react-copy-to-clipboard
+  description: Copy-to-clipboard React component
+  package_url: https://www.npmjs.com/react-copy-to-clipboard
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
@@ -139,8 +285,22 @@ tools:
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
   detection_source: package.json
-  last_updated_by: Eddie Vlagea
-  last_updated_on: 2023-02-22 18:22:56.000000000 Z
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
 - name: react-tooltip
   description: React tooltip component
   package_url: https://www.npmjs.com/react-tooltip
@@ -153,5 +313,46 @@ tools:
   image_url: https://img.stackshare.io/package/17696/default_9693d58c90f5c726ee648423687212d2a94266da.png
   detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
   detection_source: package.json
-  last_updated_by: Eddie Vlagea
-  last_updated_on: 2023-02-22 18:22:56.000000000 Z
+  last_updated_by: trigaten
+  last_updated_on: 2023-08-15 15:54:05.000000000 Z
+- name: remark-gfm
+  description: Remark plugin to support GFM
+  package_url: https://www.npmjs.com/remark-gfm
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-07-22 22:05:39.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2023-04-30 23:54:29.000000000 Z
+- name: yup
+  description: Dead simple Object schema validation
+  package_url: https://www.npmjs.com/yup
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17215/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/yuriportfolio/Learn_Prompting/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: trigaten
+  last_updated_on: 2022-10-27 19:39:20.000000000 Z
